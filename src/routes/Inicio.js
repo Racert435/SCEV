@@ -1,11 +1,9 @@
 import React from "react";
 import paloma from '../paloma.png';
-import correo       from '../correo.png'
+
 import dinero       from '../dinero.png'
 import lupa       from '../lupa.png'
 import acom from '../acompañamos.jpg'
-
-import {RViewerTrigger,RViewer} from 'react-viewerjs';
 
 
     

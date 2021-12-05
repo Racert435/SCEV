@@ -9,4 +9,4 @@ export const Noencontrada = () => {
     )
 }
 
-export default Noencontrada
+export default Noencontrada;
