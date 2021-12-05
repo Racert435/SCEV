@@ -12,12 +12,12 @@ import Noencontrada from './routes/Noencontrada'
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path='/' element ={<App/>}>
+      <Route path='/' element ={<App/>}> </Route>
         <Route index element={<Inicio/>}></Route>
-        <Route path='formulario' element={<Formulario/>}></Route>
-        <Route path='quien' element={<Quien/>}></Route>
+        <Route path='/formulario' element={<Formulario/>}></Route>
+        <Route path='/quien' element={<Quien/>}></Route>
         <Route path='*' element={<Noencontrada/>}></Route>
-      </Route>
+     
     </Routes>
     
   </BrowserRouter>,
