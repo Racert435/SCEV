@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import logoauto from './img/pngwing.com.png'
 
 import { isEmpty, size } from 'lodash';
 import { addDocument, deleteDocument, getColecction, updateDocument } from '../actions';
@@ -128,7 +128,7 @@ function Page(){
     
     <link rel="stylesheet" href="./style.css"/>
     <div className="container mt-5">
-        <h1 className="text-center" >Registro de Automoviles <img id="logoauto" src="./img/pngwing.com.png" alt="auto"/></h1>
+        <h1 className="text-center" >Registro de Automoviles <img id="logoauto" src={logoauto} alt="auto"/></h1>
         
         <div >
             <h4 className="text-center">{editMode ? "Modificar registro" : "Nuevo Auto-Park"} </h4>
