@@ -22,8 +22,8 @@ const navigation = () => {
           <li class="nav-item">
    
     
-   <NavLink to="/quien" className="btn btn-outline-primary">Quienes somos?</NavLink>
-   <NavLink to="/formulario" className="btn btn-outline-success">Registro de Automoviles</NavLink> 
+   <NavLink to="/quien/" className="btn btn-outline-primary">Quienes somos?</NavLink>
+   <NavLink to="/formulario/" className="btn btn-outline-success">Registro de Automoviles</NavLink> 
      </li>
          
           
