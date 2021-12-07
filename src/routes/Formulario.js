@@ -156,7 +156,7 @@ function Page(){
         </div>
         <div >
           <div >
-            <h4 className="text-center">Estacionamiento</h4>
+            <h4 className="text-center">informacion de usuario</h4>
             {
               size(tasks)===0 ?(
                 <h5 className="text-center">Aun no hay espacios ocupados</h5>
