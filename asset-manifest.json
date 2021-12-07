@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SCEV-MEJORADA/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/SCEV-MEJORADA/static/js/main.aecba85b.chunk.js",
-    "main.js.map": "/SCEV-MEJORADA/static/js/main.aecba85b.chunk.js.map",
-    "runtime-main.js": "/SCEV-MEJORADA/static/js/runtime-main.c24871db.js",
-    "runtime-main.js.map": "/SCEV-MEJORADA/static/js/runtime-main.c24871db.js.map",
-    "static/js/2.875f61f0.chunk.js": "/SCEV-MEJORADA/static/js/2.875f61f0.chunk.js",
-    "static/js/2.875f61f0.chunk.js.map": "/SCEV-MEJORADA/static/js/2.875f61f0.chunk.js.map",
-    "index.html": "/SCEV-MEJORADA/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/SCEV-MEJORADA/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.875f61f0.chunk.js.LICENSE.txt": "/SCEV-MEJORADA/static/js/2.875f61f0.chunk.js.LICENSE.txt",
-    "static/media/dinero.5cbd9a76.png": "/SCEV-MEJORADA/static/media/dinero.5cbd9a76.png",
-    "static/media/lupa.fdddb590.png": "/SCEV-MEJORADA/static/media/lupa.fdddb590.png",
-    "static/media/paloma.996cf16d.png": "/SCEV-MEJORADA/static/media/paloma.996cf16d.png",
-    "static/media/pngwing.com.70e7f70b.png": "/SCEV-MEJORADA/static/media/pngwing.com.70e7f70b.png"
+    "main.css": "/SCEV/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/SCEV/static/js/main.aecba85b.chunk.js",
+    "main.js.map": "/SCEV/static/js/main.aecba85b.chunk.js.map",
+    "runtime-main.js": "/SCEV/static/js/runtime-main.109999d1.js",
+    "runtime-main.js.map": "/SCEV/static/js/runtime-main.109999d1.js.map",
+    "static/js/2.383c8bdd.chunk.js": "/SCEV/static/js/2.383c8bdd.chunk.js",
+    "static/js/2.383c8bdd.chunk.js.map": "/SCEV/static/js/2.383c8bdd.chunk.js.map",
+    "index.html": "/SCEV/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/SCEV/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.383c8bdd.chunk.js.LICENSE.txt": "/SCEV/static/js/2.383c8bdd.chunk.js.LICENSE.txt",
+    "static/media/dinero.5cbd9a76.png": "/SCEV/static/media/dinero.5cbd9a76.png",
+    "static/media/lupa.fdddb590.png": "/SCEV/static/media/lupa.fdddb590.png",
+    "static/media/paloma.996cf16d.png": "/SCEV/static/media/paloma.996cf16d.png",
+    "static/media/pngwing.com.70e7f70b.png": "/SCEV/static/media/pngwing.com.70e7f70b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c24871db.js",
-    "static/js/2.875f61f0.chunk.js",
+    "static/js/runtime-main.109999d1.js",
+    "static/js/2.383c8bdd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.aecba85b.chunk.js"
   ]
