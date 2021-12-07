@@ -17,20 +17,19 @@ const Page =()=>(
             <p> SCEV es la opción más cómoda, confiable y económica para conseguir un lugar para tu coche.</p>
 </div>
          <div class="con2 text-center">
-            <h2>¿Cómo es un funciona SCEV? </h2>
-                <h5>Un estacionamiento diferente</h5>
+            <h2>¿Cómo funciona SCEV? </h2>
+                <h5>Un estacionamiento diferente:</h5>
                 </div>
             
             <div class="caja text-center">
             <div><img id="paloma" src={paloma} class="img4" alt="..."/></div>
-            <p>Privado y exclusivo a nuestra comunidad Con SCEV tienes acceso a multiples opciones de estacionamiento. Hacemos esfuerzos por 
-                conseguir alternativas que no encontrarías en la calle o estacionamientos tradicionales.</p>
+            <p>Privado y exclusivo a nuestra comunidad con SCEV tienes acceso a múltiples opciones de estacionamiento. Hacemos esfuerzos por conseguir alternativas que no encontrarías en la calle o estacionamientos tradicionales.</p>
             </div>
            
 
             <div class="caja text-center">
             <div><img id="paloma"  src={paloma} class="img2"  alt="..."/> </div>
-            <p>Cómodo, práctico y económico Ahorra tiempo, dinero y estrés reservando u lugar de estacionamiento privado con gente como tú con tan solo unos clicks.</p>
+            <p>Cómodo, práctico y económico, ahorra tiempo, dinero y estrés reservando un lugar de estacionamiento privado con gente como tú con tan solo un click.</p>
             </div>
            
             <div class="con3 text-center">

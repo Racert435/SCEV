@@ -28,7 +28,7 @@ const Page  =() =>(
             <br/>
         <div class="con2">
         <div class="caja">
-            <h2>Chat entre Anfitrión y Conductor</h2>
+            <h2>Chat entre anfitrión y conductor</h2>
             
         <img class="img2" src={chat}  alt="..."/> 
             <p>Una vez que tu reservación está pagada y confirmada se habilita un sistema de mensajería con el anfitrión para que puedas escribirle en caso de una eventualidad.</p>
